@@ -20,6 +20,6 @@ User Guide
     | DB_PASSWORD   | database credential - password                                                            | root             |
     | DEBUG         | debug will activate the log and will seeding data into database, for initiation purpose   | true             |
 
-How to run the Project
-# 1. Go Mod vendor
-# 2. Go run main.go
+## How to run the Project
+1. Go Mod vendor
+2. Go run main.go

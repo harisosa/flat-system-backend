@@ -22,3 +22,6 @@ User Guide
 ## How to run the Project
 1. Go Mod vendor
 2. Go run main.go
+
+## Output
+    API will expose at port : 8080
